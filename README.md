@@ -1,6 +1,6 @@
 # Heroku Image-Optim Buildpack
 
-Add binaries for image-optim on Heroku, can be used with heroku-buildpack-multi.
+Add binaries for image-optim on Heroku, can be used with [heroku-buildpack-multi](https://github.com/SolarCS/heroku-buildpack-multi).
 
 Built-in support for [image-optim](https://github.com/toy/image_optim) gem, creation of `.image-optim.yml` config file. 
 
